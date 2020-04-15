@@ -1,4 +1,4 @@
-# Predicting Stock price of Apple using LSTM model
+# Predicting Apple's Stock price using LSTM model
 
 This is a final project for STAT 453: Deep Learning (Spring 2020), and its goal is to demonstrate how deep learning algorithm could be applied to the real world.
 
