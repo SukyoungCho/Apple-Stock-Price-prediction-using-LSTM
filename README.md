@@ -2,6 +2,10 @@
 
 This is a final project for STAT 453: Deep Learning (Spring 2020), and its goal is to demonstrate how deep learning algorithm could be applied to the real world in making a profit.
 
+In September 2019, Apple has become the world’s first trillion-dollar company. Apple’s stock price has escalated from 172 to 324 just in a year of 2019 – almost doubled. However, there are various factors, sometimes even imperceptible, affecting the stock price.
+
+Therefore, the motivation of our project is to figure out whether machines are able to learn from the previous data and envisage profitable stocks. The development of technology may be more beneficial if people can make money without working but by investing with the help of AI. Since traditional neural networks have a major shortcoming in analyzing and predicting a trend of stock price, Long Short Term Memory networks, a special kind of Recurrent Neural Network, is adopted in order to loop through in themselves and generate accurate and precise prediction.
+
 ## Description
 
 In this repository:
